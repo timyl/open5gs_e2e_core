@@ -3,6 +3,8 @@
 ## Overview
 
 A customized Open5GS 2.7.2 implementation for private end-to-end testing and vendor NF compatibility validation.
+<img width="1179" height="676" alt="image" src="https://github.com/user-attachments/assets/5949a455-f3c1-40e6-a407-e78123ea9944" />
+
 
 ## Description of what this customization does
 
